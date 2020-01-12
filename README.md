@@ -1,4 +1,4 @@
 # Unity Project
  2D Side Scroller
 
-![](game demo.gif)
+![](game%20demo.gif)
